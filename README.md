@@ -5,7 +5,7 @@
   ### Project Management, Keen attention to detail, Collaboration and Teamwork, Problem-solving
 
 ## Education
-### Marine Geoscience, BTech
+##### Marine Geoscience, "BTech"
 
 ## Work Experience
 ### Data Analyst at AquaEarth Consults | Contract| (October 2023 - December 2023)
@@ -37,7 +37,7 @@ This is a recommender system that recommends a skincare product to customers bas
 
 ### Earthquake Prediction
 [Publication](https://medium.com/@udofiaetietop/japan-earthquake-data-analysis-72e62c4db5a1) 
-Take a look at the historical occurrence of earthquake in Japan, causes, magnitude of each quake and the death/destruction rate
+Take a look at the historical occurrence of earthquake in Japan, causes, magnitude of each quake and  death rate
 
 ### Blog
 ### Webscrapping: 
