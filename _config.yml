@@ -1,5 +1,5 @@
 title: Etietop Udofia
 logo: /assets/img/bio_pic.jpeg
-description: text below image
+#description: text below image
 show_description: True
 theme: jekyll-theme-minimal
