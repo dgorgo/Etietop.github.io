@@ -5,8 +5,10 @@
 #### Project Management, Keen attention to detail, Collaboration and Teamwork
 
 ## Education
-##### Federal University of Technology, Akure |Marine Geoscience, |BTech
-#### AI Lagos School |DataScience and machine Learning |Certification
+#### Federal University of Technology, Akure |Marine Geoscience, |BTech
+##### AI Lagos School |DataScience and machine Learning |Certification
+##### Entry Level |Data Analytics |Certification
+
 
 ## Work Experience
 ### Data Analyst at AquaEarth Consults | Contract| (October 2023 - December 2023)
@@ -57,8 +59,11 @@ when to used which library and the functions each library best performs.
 
 ### Three Methods that increase my Productivity: 
 As someone with a very short attention span I had to find ways to stay productive.
-I tried a lot of things till I these Japanese methods, pick a method, practice it, 
+I tried a lot of things till I discovered these methods. 
+How to achieve an optimal focus and productivity using any of these methods. 
+Pick a method, practice it, 
 stay consistent and record your results. 
+Repeat!!!
 
 [Read it here:](https://medium.com/@udofiaetietop/three-methods-that-increase-my-focus-and-productivity-ac56d368a545)
 
