@@ -6,7 +6,7 @@
 
 ## Education
 ##### Federal University of Technology, Akure |Marine Geoscience, |BTech
-#### AI Lagos School |DataScienc and machine Learning |Certification
+#### AI Lagos School |DataScience and machine Learning |Certification
 
 ## Work Experience
 ### Data Analyst at AquaEarth Consults | Contract| (October 2023 - December 2023)
