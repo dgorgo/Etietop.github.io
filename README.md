@@ -35,7 +35,7 @@ Power BI and SQL A KPI Dashboard that allows stakeholders to see in real-time th
 [Publication](https://medium.com/@udofiaetietop/rent-an-apartment-de4d4dc698db)
 Analysis of the largest property website in Nigeria using python to scrape data, 
 SQL to determine exactly what is needed and to store the scraped data and PowerBI  to visualize the data
-![Rent-an-apartment](/assets/img/4port.png)
+![Rent-an-apartment](/assets/img/rent.png)
 
 
 ### Recommender System
