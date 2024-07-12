@@ -2,4 +2,5 @@ title: Etietop Udofia
 logo: /assets/img/bio_pic.jpeg
 #description: text below image
 show_description: True
+google_analytics:
 theme: jekyll-theme-minimal
