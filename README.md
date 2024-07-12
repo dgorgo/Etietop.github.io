@@ -2,10 +2,11 @@
 
 ### Technical Skills: Python, SQL, Power BI, Excel
 #### Other Skills: Report Writing, Research and presentation skills, 
-#### Project Management, Keen attention to detail, Collaboration and Teamwork, Problem-solving
+#### Project Management, Keen attention to detail, Collaboration and Teamwork
 
 ## Education
-##### Marine Geoscience, "BTech"
+##### Federal University of Technology, Akure |Marine Geoscience, |BTech
+#### AI Lagos School |DataScienc and machine Learning |Certification
 
 ## Work Experience
 ### Data Analyst at AquaEarth Consults | Contract| (October 2023 - December 2023)
@@ -28,7 +29,7 @@ Addressed customer enquiries, complaints and feedbacks, attended to calls, respo
 [Publication](https://github.com/dgorgo/Sql_sales/blob/main/Aella%20queries.sql)
 Power BI and SQL A KPI Dashboard that allows stakeholders to see in real-time the performance of products, salespeople, regions
 
-![4port](https://github.com/dgorgo/Sql_sales/blob/main/metrics.pdf)
+![Sales Dashboard](https://github.com/dgorgo/Sql_sales/blob/main/metrics.pdf)
 
 ### Recommender System
 [Publication](https://skin-recommender-uhdd44j5hwu3ubuqbfktle.streamlit.app/) 
