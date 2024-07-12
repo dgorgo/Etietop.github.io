@@ -29,7 +29,7 @@ Addressed customer enquiries, complaints and feedbacks, attended to calls, respo
 [Publication](https://github.com/dgorgo/Sql_sales/blob/main/Aella%20queries.sql)
 Power BI and SQL A KPI Dashboard that allows stakeholders to see in real-time the performance of products, salespeople, regions
 
-![Sales Dashboard](https://github.com/dgorgo/Sql_sales/blob/main/metrics.pdf)
+![Sales Dashboard](/assets/img/4port.png)
 
 ### Recommender System
 [Publication](https://skin-recommender-uhdd44j5hwu3ubuqbfktle.streamlit.app/) 
