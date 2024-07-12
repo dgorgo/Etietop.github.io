@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Technical Skills: Python, SQL, Power BI, Excel
-  ### Other Skills: Report Writing, Research and presentation skills, 
-  ### Project Management, Keen attention to detail, Collaboration and Teamwork, Problem-solving
+#### Other Skills: Report Writing, Research and presentation skills, 
+#### Project Management, Keen attention to detail, Collaboration and Teamwork, Problem-solving
 
 ## Education
 ##### Marine Geoscience, "BTech"
@@ -44,12 +44,14 @@ Take a look at the historical occurrence of earthquake in Japan, causes, magnitu
 An article on my top 2 most used webscrapping libraries on python. 
 In this article I discussed on the merits and demerits of both libraries, 
 when to used which library and the functions each library best performs. 
+
 [Read it here:](https://medium.com/@udofiaetietop/webscrapping-beautifulsoup-or-selenium-3467edb3c0d9)
 
 ### Three Methods that increase my Productivity: 
 As someone with a very short attention span I had to find ways to stay productive.
 I tried a lot of things till I these Japanese methods, pick a method, practice it, 
 stay consistent and record your results. 
+
 [Read it here:](https://medium.com/@udofiaetietop/three-methods-that-increase-my-focus-and-productivity-ac56d368a545)
 
 [Linkedln](https://www.linkedin.com/in/etietop-udofia/)
