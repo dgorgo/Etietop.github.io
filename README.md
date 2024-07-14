@@ -16,12 +16,12 @@ Provided accurate and very insightful analysis,
 by analyzing historical data and insitu data, and developed and monitored KPIs related to pollutant levels and indicators. 
 This KPI helped my client to make decisions based on their sustainability goals and also reduce environmental impact.
 
-### Machine Learning Engineer |GeoAI Solutions |Intern|(Febraury 2024 - June 2023)
+### Machine Learning Engineer |GeoAI Solutions |Intern|(February 2023 - June 2023)
 Developed machine learning models that was used to improve energy allocation, 
 this resulted in a reduction in 40% operational cost, reduction in energy waste and improved the client’s customers retention.
 
 
-### Customer Retention Officer |Multichoice Nigeria| (October 2022- Febraury 2023)
+### Customer Retention Officer |Multichoice Nigeria| (October 2022- February 2023)
 Monitored customer retention metrics and KPIs.
 Analyzed customer retention data to understand their needs then created dashboards reports and present findings to management.
 Addressed customer enquiries, complaints and feedbacks, attended to calls, responded to mails.
